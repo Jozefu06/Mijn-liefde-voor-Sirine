@@ -1,0 +1,34 @@
+body {
+    background-color: #f8e7f1;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ff66b2;
+    font-size: 48px;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.message {
+    font-size: 24px;
+    color: #ff99cc;
+    margin-top: 20px;
+}
+
+.heart-image {
+    width: 150px;
+    height: auto;
+    margin-top: 30px;
+}
